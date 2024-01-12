@@ -19,12 +19,15 @@
 .logo-container {
     display: flex;
     justify-content: center;
+    height: 300px;
+    width: auto;
+    align-items: center;
 }
 
 .letters {
-    font-size: 80px;
-    font-weight: 400;
-    font-family: Roboto,arial,sans-serif;;
+    font-size: 100px;
+    font-weight: 800;
+    font-family:'Times New Roman', Times, serif
 }
 
 .blue {
