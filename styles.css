@@ -1,0 +1,47 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    font-family: Roboto,arial,sans-serif;
+    color: gray;
+}
+
+.left-nav {
+    display: flex;
+    gap: 10px;
+}
+
+.right-nav {
+    display: flex;
+    gap: 10px;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+}
+
+.letters {
+    font-size: 80px;
+    font-weight: 400;
+    font-family: Roboto,arial,sans-serif;;
+}
+
+.blue {
+    color: #4285F4;
+}
+
+.red {
+    color: #DB4437;
+}
+.yellow {
+    color: #F4B400
+}
+
+.green {
+    color: #0F9D58;
+}
+.search-container {
+    display: flex;
+    justify-content: center;
+}
